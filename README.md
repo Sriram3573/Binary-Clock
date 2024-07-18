@@ -3,7 +3,8 @@
 ![Screenshot (140)](https://github.com/user-attachments/assets/15fde033-20cb-45db-a3a2-130b20049ad4)
 ![Screenshot (143)](https://github.com/user-attachments/assets/ca9a56ff-c73e-47c3-83f9-d66665472437)
 
-Binary-Clock
+**Binary-Clock**
+
 Imports:
 
 The script imports necessary modules such as tkinter for GUI, BytesIO for handling byte data, pygame for audio playback, time for time-related operations, and gTTS from gtts for text-to-speech conversion. Initialization:
